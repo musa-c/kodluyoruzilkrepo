@@ -8,7 +8,7 @@ Bu repo Kodluyoruz Git eğitimindeki ödev reposu. İçerisinde bir adet README 
 Klonlama işlemi:
 
 `
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone https://github.com/musa-c/kodluyoruzilkrepo.git
 `
 
 ## Kullanım
